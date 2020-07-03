@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gilarromadhon/counterapps/static/css/main.a4defe1c.chunk.css",
+    "main.js": "/gilarromadhon/counterapps/static/js/main.2498906f.chunk.js",
+    "main.js.map": "/gilarromadhon/counterapps/static/js/main.2498906f.chunk.js.map",
+    "runtime-main.js": "/gilarromadhon/counterapps/static/js/runtime-main.a48b90e7.js",
+    "runtime-main.js.map": "/gilarromadhon/counterapps/static/js/runtime-main.a48b90e7.js.map",
+    "static/js/2.9c90eddd.chunk.js": "/gilarromadhon/counterapps/static/js/2.9c90eddd.chunk.js",
+    "static/js/2.9c90eddd.chunk.js.map": "/gilarromadhon/counterapps/static/js/2.9c90eddd.chunk.js.map",
+    "index.html": "/gilarromadhon/counterapps/index.html",
+    "precache-manifest.973725cdc1b2c87d8f25a91b6b072f61.js": "/gilarromadhon/counterapps/precache-manifest.973725cdc1b2c87d8f25a91b6b072f61.js",
+    "service-worker.js": "/gilarromadhon/counterapps/service-worker.js",
+    "static/css/main.a4defe1c.chunk.css.map": "/gilarromadhon/counterapps/static/css/main.a4defe1c.chunk.css.map",
+    "static/js/2.9c90eddd.chunk.js.LICENSE.txt": "/gilarromadhon/counterapps/static/js/2.9c90eddd.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/gilarromadhon/counterapps/static/media/logo.8dad8028.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a48b90e7.js",
+    "static/js/2.9c90eddd.chunk.js",
+    "static/css/main.a4defe1c.chunk.css",
+    "static/js/main.2498906f.chunk.js"
+  ]
+}
